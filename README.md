@@ -1,6 +1,6 @@
 # SunshinePHP 2015
 
-This repository holds my notes and any other relevant material for SunshinePHP 2015. Head over to the [notes/](tree/master/notes) directory for my notes. Any related codebase can be found under [code/](tree/master/code).
+This repository holds my notes and any other relevant material for SunshinePHP 2015. Head over to the [notes/](notes) directory for my notes. Any related codebase can be found under [code/](code).
 
 ## Talks
 
