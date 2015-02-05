@@ -14,6 +14,8 @@ Tuning Nginx And PHP-FPM The Right Way
 
 Queues And The Giant Beanstalkd
 
+Composer The Right Way
+
 ### Day 2
 
 Beyond Design Patterns
