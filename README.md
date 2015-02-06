@@ -24,9 +24,9 @@ HHVM Basics
 
 Maximising Performance in ZF2
 
-The Javascript Single Page App Front-end And The PHP Back-end
+Wrangle Cross-Cutting Concerns With Event Driven Programming
 
-Dockerize All The Things! **[OR]** Handling Highly Connected Data With The Neo4j Graph Database
+Handling Highly Connected Data With The Neo4j Graph Database
 
 ## Links
 
