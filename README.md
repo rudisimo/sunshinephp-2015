@@ -10,13 +10,13 @@ This repository holds my notes and any other relevant material for SunshinePHP 2
 
 [The Twelve-Factor App: Best Practices For PHP On Platforms-As-A-Service](notes/the-twelve-factor-app.md)
 
-Unit Testing PHP Applications
+[Unit Testing PHP Applications](notes/unit-testing-php-applications.md)
 
-Tuning Nginx And PHP-FPM The Right Way
+[Tuning Nginx And PHP-FPM The Right Way](notes/tuning-nginx-and-php-fpm.md)
 
-Queues And The Giant Beanstalkd
+[Queues And The Giant Beanstalkd](notes/queues-and-the-giant-beanstalkd.md)
 
-Composer The Right Way
+[Composer The Right Way](notes/composer-the-right-way.md)
 
 ### Day 2
 
