@@ -6,11 +6,13 @@ This repository holds my notes and any other relevant material for SunshinePHP 2
 
 ### Day 1
 
-[Keynote: PHP and teams, it's good chemistry!](notes/keynote.md)
+[Keynote: PHP and teams, it's good chemistry!](notes/keynote-rasmus.md)
 
 [The Twelve-Factor App: Best Practices For PHP On Platforms-As-A-Service](notes/the-twelve-factor-app.md)
 
 [Unit Testing PHP Applications](notes/unit-testing-php-applications.md)
+
+Keynote: How a team can make or break a startup
 
 [Tuning Nginx And PHP-FPM The Right Way](notes/tuning-nginx-and-php-fpm.md)
 
@@ -19,8 +21,6 @@ This repository holds my notes and any other relevant material for SunshinePHP 2
 [Composer The Right Way](notes/composer-the-right-way.md)
 
 ### Day 2
-
-Keynote: How a team can make or break a startup
 
 Beyond Design Patterns
 
