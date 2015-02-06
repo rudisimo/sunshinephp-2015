@@ -1,5 +1,7 @@
-# Keynote
+# Keynote: PHP and teams, it's good chemistry!
 > by: Rasmus Lerdorf
+> 
+[http://joind.in/talk/view/13428][1]
 
 * 20 years of PHP!
 	* PHP Announcement: June 8, 1995
@@ -27,9 +29,10 @@
 	* ICU IntChar class added to intl extension
 	* First RC scheduled for June 2015
 	* Help test!
-		* Vagrant image: [https://github.com/rlerdorf/php7dev][1]
+		* Vagrant image: [https://github.com/rlerdorf/php7dev][2]
 		* Switch versions easily (20 pre-compiled version)
 			* `sudo newphp 56 debug`
 			* `sudo newphp 7`
 
-[1]: https://github.com/rlerdorf/php7dev
+[1]: http://joind.in/talk/view/13428
+[2]: https://github.com/rlerdorf/php7dev
