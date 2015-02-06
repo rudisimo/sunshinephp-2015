@@ -1,7 +1,6 @@
 # Keynote: PHP and teams, it's good chemistry!
-> by: Rasmus Lerdorf
-> 
-[http://joind.in/talk/view/13428][1]
+> by: Rasmus Lerdorf  
+> [http://joind.in/talk/view/13428][1]
 
 * 20 years of PHP!
 	* PHP Announcement: June 8, 1995
