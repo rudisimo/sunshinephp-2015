@@ -6,6 +6,8 @@ This repository holds my notes and any other relevant material for SunshinePHP 2
 
 ### Day 1
 
+[Keynote](notes/keynote.md)
+
 The Twelve-Factor App: Best Practices For PHP On Platforms-As-A-Service
 
 Unit Testing PHP Applications
