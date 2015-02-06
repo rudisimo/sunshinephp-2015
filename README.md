@@ -6,7 +6,7 @@ This repository holds my notes and any other relevant material for SunshinePHP 2
 
 ### Day 1
 
-[Keynote](notes/keynote.md)
+[Keynote: PHP and teams, it's good chemistry!](notes/keynote.md)
 
 [The Twelve-Factor App: Best Practices For PHP On Platforms-As-A-Service](notes/the-twelve-factor-app.md)
 
@@ -19,6 +19,8 @@ This repository holds my notes and any other relevant material for SunshinePHP 2
 [Composer The Right Way](notes/composer-the-right-way.md)
 
 ### Day 2
+
+Keynote: How a team can make or break a startup
 
 Beyond Design Patterns
 
