@@ -30,11 +30,11 @@ Keynote: Same Thing Happens Every Time
 
 Keynote: TBA
 
-Maximising Performance in ZF2
+[Maximising Performance in ZF2](notes/maximising-performance-in-zf2.md)
 
-Wrangle Cross-Cutting Concerns With Event Driven Programming
+[Wrangle Cross-Cutting Concerns With Event Driven Programming](notes/event-driven-programming.md)
 
-Handling Highly Connected Data With The Neo4j Graph Database
+[Handling Highly Connected Data With The Neo4j Graph Database](notes/handling-highly-connected-data-with-neo4j.md)
 
 ## Links
 
