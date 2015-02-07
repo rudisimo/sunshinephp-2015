@@ -22,9 +22,13 @@ Keynote: How a team can make or break a startup
 
 ### Day 2
 
-Beyond Design Patterns
+Keynote: Same Thing Happens Every Time
+
+[Beyond Design Patterns](notes/beyond-design-patterns.md)
 
 HHVM Basics
+
+Keynote: TBA
 
 Maximising Performance in ZF2
 
