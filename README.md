@@ -26,7 +26,7 @@ Keynote: Same Thing Happens Every Time
 
 [Beyond Design Patterns](notes/beyond-design-patterns.md)
 
-HHVM Basics
+[HHVM Basics](notes/hhvm-basics.md)
 
 Keynote: TBA
 
