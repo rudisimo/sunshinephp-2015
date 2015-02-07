@@ -36,15 +36,18 @@ Keynote: TBA
 
 [Handling Highly Connected Data With The Neo4j Graph Database](notes/handling-highly-connected-data-with-neo4j.md)
 
+Keynote: Down the Rabbit Hole: Lessons Learned combining Career and Community
+
 ## Links
 
-[SunshinePHP 2015 Site][1]  
+[SunshinePHP 2015][1]  
 [Joind.in Event Page][2]  
 
 ## Who am I?
 
-[Rodolfo Puig][3]  
+[Rodolfo Puig][3] &raquo; [@rudisimo][4]  
 
 [1]: http://2015.sunshinephp.com/
 [2]: http://joind.in/event/view/2571
 [3]: https://about.me/rudisimo
+[4]: https://twitter.com/rudisimo
